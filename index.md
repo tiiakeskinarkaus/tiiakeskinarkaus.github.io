@@ -16,7 +16,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 ###### Header six
 
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 
 [Search for it.](www.google.com)
@@ -102,12 +102,12 @@ To doubt they were kneeling then.
 ## Exercise 2
 
 1. **Keyhole Markup Language (KML)**
-_Keyhole Markup Language (KML)_ was created in 2004 by Keyhole Inc and it was developed for to use with Keyhole Earth Viewer (Google Earth).  
+>_Keyhole Markup Language (KML)_ was created in 2004 by Keyhole Inc and it was developed for to use with Keyhole Earth Viewer (Google Earth).  
 It is an XML notation for expressing geographic annotation and visualization within two-dimensional maps and three-dimensional Earth browsers and the KML file has features such as place marks, images and 3D models, etc. These features can be displayed on maps in geospatial software implementing the KML encoding.
 KML has some of the same structural grammar as Geography Markup Language (GML)
 
 2. **Extensible HyperText Markup Language (XHTML)**
-_Extensible HyperText Markup Language (XHTML)_ is one of XML markup languages.  
+>_Extensible HyperText Markup Language (XHTML)_ is one of XML markup languages.  
 It was developed in 2000 to make HTML more extensible and increase interoperability with other data formats. There are various
 differences between XHTML and HTML, for example in syntax: XHTML is case-sensitive for element and attribute names, while HTML is not.
 Besides syntactical differences, they behave differently on parse errors and JavaScript processing, and most content requiring namespaces don't work at all in HTML.
@@ -115,10 +115,7 @@ Besides syntactical differences, they behave differently on parse errors and Jav
 
 ## Exercise 3
 
-[You **need to** see this](https://www.youtube.com/watch?v=O91DT1pR1ew)
-
-![A cute dog](https://is.mediadelivery.fi/img/468/8d2618a0fac0420980d526395cd40bce.jpg)
-
+[![A cute dog](https://is.mediadelivery.fi/img/468/8d2618a0fac0420980d526395cd40bce.jpg)](https://www.youtube.com/watch?v=O91DT1pR1ew)
 
 ## Exercise 4
 ```C#
@@ -140,3 +137,4 @@ public class Person{
     this.age = this.age + 1;
   }
 }
+```
